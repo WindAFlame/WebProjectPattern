@@ -1,0 +1,14 @@
+{
+  "name": "ng-mdl_offline",
+  "version": "1.0.0",
+  "description": "Projet vide prêt à l'emploi.",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "material-design-icons": "^3.0.1",
+    "material-design-lite": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "WindAFlame",
+  "license": ""
+}
