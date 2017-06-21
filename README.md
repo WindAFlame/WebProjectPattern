@@ -1,4 +1,4 @@
-# Meterial Design Lite - Online Template
+# Material Design Lite - Online Template
 
 _This is a project with all dependancies from CDNJS._
 
