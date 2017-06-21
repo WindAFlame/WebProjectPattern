@@ -1,0 +1,14 @@
+{
+  "name": "materialize_offline",
+  "version": "1.0.0",
+  "description": "Projet vide prêt à l'emploi.",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "material-design-icons": "^3.0.1",
+    "materialize-css": "^0.98.2"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "WindAFlame",
+  "license": ""
+}
