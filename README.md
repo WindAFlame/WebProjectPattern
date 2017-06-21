@@ -1,4 +1,4 @@
-# Materialize - Online Template
+# Meterial Design Lite - Online Template
 
 _This is a project with all dependancies from CDNJS._
 
