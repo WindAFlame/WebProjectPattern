@@ -1,0 +1,17 @@
+{
+  "name": "ng-mdl_with-uirouter_online",
+  "version": "1.0.0",
+  "description": "Projet vide prêt à l'emploi.",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {},
+  "repository": {
+    "url": "https://github.com/WindAFlame/WebProjectPattern.git",
+    "type": "git"
+  },
+  "author": "WindAFlame <dev.windaflame@gmail.com>",
+  "license": "MIT"
+}
