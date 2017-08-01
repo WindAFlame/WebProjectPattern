@@ -5,20 +5,20 @@ var connect = require('gulp-connect');
 
 gulp.task('connect', function() {
   connect.server({
-    root: 'app',
+    root: 'src',
     livereload: true
   });
 });
  
 gulp.task('html', function () {
-  gulp.src('./app/index.html')
+  gulp.src('./src/index.html')
     .pipe(connect.reload());
-  gulp.src('./app/views/**/*.html')
+  gulp.src('./src/views/**/*.html')
     .pipe(connect.reload());
 });
  
 gulp.task('watch', function () {
-  gulp.watch(['./app/index.html','./app/views/**/*.html'], ['html']);
+  gulp.watch(['./src/index.html','./src/views/**/*.html'], ['html']);
 });
 
 gulp.task('serve', ['connect', 'watch']);
