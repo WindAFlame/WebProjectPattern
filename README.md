@@ -15,8 +15,8 @@ This project contains the following dependancies :
 |[AngularJS-Messages]()|1.6.5|The ngMessages module provides enhanced support for displaying messages within templates (typically within forms or when rendering message objects that return key/value data). Instead of relying on JavaScript code and/or complex ng-if statements within your form template to show and hide error messages specific to the state of an input field, the ngMessages and ngMessage directives are designed to handle the complexity, inheritance and priority sequencing based on the order of how the messages are defined in the template.|
 |[AngularJS-Sanitize]()|1.6.5|The ngSanitize module provides functionality to sanitize HTML.|
 |[Material Design Lite](https://getmdl.io/started/)|1.3.0|An implementation of Material Design components in vanilla CSS, JS, and HTML.|
-|Material-Design-Icons|3.0.1|Material design icons are the official icon set from Google that are designed under the material design guidelines.|
-|[UI.Route](https://ui-router.github.io/)|1.0.3||
+|[Material-Design-Icons](https://materialdesignicons.com/)|3.0.1|Material design icons are the official icon set from Google that are designed under the material design guidelines.|
+|[UI.Router](https://ui-router.github.io/)|1.0.3|State based routing for client-side web apps |
 
 # Dev - Dependancies
 
