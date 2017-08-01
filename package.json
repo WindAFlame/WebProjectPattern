@@ -3,12 +3,17 @@
   "version": "1.0.0",
   "description": "Projet vide prêt à l'emploi.",
   "dependencies": {
-    "angular": "^1.6.4",
-    "material-design-icons": "^3.0.1",
+    "angular": "^1.6.5",
     "material-design-lite": "^1.3.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "material-design-icons": "^3.0.1"
+  },
   "scripts": {},
-  "author": "WindAFlame",
-  "license": ""
+  "repository": {
+    "url": "https://github.com/WindAFlame/WebProjectPattern.git",
+    "type": "git"
+  },
+  "author": "WindAFlame <dev.windaflame@gmail.com>",
+  "license": "MIT"
 }
