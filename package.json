@@ -4,8 +4,8 @@
   "description": "Projet vide prêt à l'emploi.",
   "dependencies": {},
   "devDependencies": {
-    "browser-sync": "^2.18.12",
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
   },
   "scripts": {},
   "repository": {
