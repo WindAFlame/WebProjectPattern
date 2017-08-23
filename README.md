@@ -9,12 +9,12 @@ This project contains the following dependancies :
 
 |Name|Version|Description|
 |---|---|---|
-|[AngularJS](http://angularjs.org/)|1.6.5|HTML enhanced for web apps.|
-|[AngularJS-Animate]()|1.6.5|AngularJS module for animations.|
-|[AngularJS-Aria]()|1.6.5|AngularJS module for making accessibility easy.|
-|[AngularJS-Messages]()|1.6.5|AngularJS module that provides enhanced support for displaying messages within templates.|
-|[AngularJS-Sanitize]()|1.6.5|AngularJS module for sanitizing HTML.|
-|[Material Design Lite](https://getmdl.io/started/)|1.3.0|Material Design Components in CSS, JS and HTML.|
+|[AngularJS](http://angularjs.org/)|1.6.6|HTML enhanced for web apps.|
+|[AngularJS-Animate]()|1.6.6|AngularJS module for animations.|
+|[AngularJS-Aria]()|1.6.6|AngularJS module for making accessibility easy.|
+|[AngularJS-Messages]()|1.6.6|AngularJS module that provides enhanced support for displaying messages within templates.|
+|[AngularJS-Sanitize]()|1.6.6|AngularJS module for sanitizing HTML.|
+|[Material Design Lite](https://getmdl.io/started/)|1.3.6|Material Design Components in CSS, JS and HTML.|
 |[Material-Design-Icons](https://materialdesignicons.com/)|3.0.1|Material Design icons by Google.|
 |[@uirouter/angularjs](https://ui-router.github.io/)|1.0.5|State based routing for client-side web apps |
 
