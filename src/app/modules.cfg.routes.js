@@ -6,11 +6,15 @@ app.config(function($stateProvider, $urlRouterProvider) {
     // Redirection when url not known
     $urlRouterProvider.otherwise('home');
 
-    // Routing Configuration
-    angular.forEach(states,function(item,key){
-        $stateProvider.state(item);
+    $stateProvider.state({
+        name: 'main',
+        abstract: true,
+        views: {
+            // targets uiview created in 'index.html'
+            '@': 'layoutComponent'
+        }
     })
-    
+    // For others states, look each component of this project.
 });
 
 // Fix animate in view
