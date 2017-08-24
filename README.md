@@ -22,5 +22,7 @@ This project contains the following dependancies :
 
 |Name|Version|Description|
 |---|---|---|
-|[Gulp](https://gulpjs.com/)|3.9.1|The streaming build system.|
+|[Gulp](https://gulpjs.com/)|3.9.1|The streaming build system|
 |[Gulp-Connect](https://github.com/avevlad/gulp-connect)|5.0.0|Gulp plugin to run a webserver (with LiveReload)|
+|[Gulp-SASS](https://github.com/dlmanning/gulp-sass)|3.1.0|SASS plugin for gulp|
+|[Gulp-Concat](https://github.com/contra/gulp-concat)|2.6.1|Streaming concat middleware for gulp|
