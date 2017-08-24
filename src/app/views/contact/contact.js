@@ -1,22 +1,22 @@
 /*
 
 */
-const homepageState = {
+const contactState = {
         parent: 'layout',
-        url: '/home',
+        url: '/contact',
         resolve: null,
         onEnter: null,
         views: {
             // targets datauiview='content' created in 'layout'
-            'content@': 'homepage'
+            'content@': 'contact'
         },
         onExit: null,
 };
 /*
 
 */
-app.component('homepage',{
+app.component('contact',{
     bindings: null,
     controller: null,
-    templateUrl: 'app/views/homepage/homepage.html'
+    templateUrl: 'app/views/contact/contact.html'
 });

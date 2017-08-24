@@ -13,7 +13,9 @@
     <!-- Stylesheet - Your Work -->
     
 </head>
-<body ng-app="MainApp" ui-view>
+<body ng-app="MainApp">
+
+    <mdl-layout></mdl-layout>
 
     <!-- Scripts - Dependancies -->
     <!-- Angularjs - Libraries -->
@@ -31,12 +33,15 @@
     <script src="app/modules.js"></script>
     <!-- Angularjs - Config -->
     <!-- Angularjs - Factories -->
-    <!-- Angularjs - Components -->
-    <script src="app/layout/footer/footer.js"></script>
-    <script src="app/layout/header/header.js"></script>
-    <script src="app/layout/layout.js"></script>
+    <!-- Angularjs - Components - Shared -->
+    <script src="app/shared/mdlContainer/mdlContainer.js"></script>
+    <!-- Angularjs - Components - Views -->
+    <script src="app/views/layout/footer/footer.js"></script>
+    <script src="app/views/layout/header/header.js"></script>
+    <script src="app/views/layout/layout.js"></script>
     <script src="app/views/homepage/homepage.js"></script>
-    <!-- Angularjs - Directives -->>
+    <script src="app/views/contact/contact.js"></script>
+    <!-- Angularjs - Directives -->
     <!-- Angularjs Extension - UI.Router -->
     <script src="app/modules.cfg.routes.js"></script>
     

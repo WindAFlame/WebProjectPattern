@@ -11,6 +11,3 @@ let app = angular.module('MainApp', [
     // - UI.Router
     'ui.router'
 ]);
-
-// List dependancies config
-let states = [];
