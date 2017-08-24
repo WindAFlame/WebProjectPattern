@@ -1,19 +1,19 @@
 /*
 
 */
-const homepageState = {
+const contactState = {
         parent: 'layout',
-        url: '/home',
+        url: '/contact',
         resolve: null,
         onEnter: null,
-        component: 'homepage',
+        component: 'contact',
         onExit: null,
 };
 /*
 
 */
-app.component('homepage',{
+app.component('contact',{
     bindings: null,
     controller: null,
-    templateUrl: 'app/views/homepage/homepage.html'
+    templateUrl: 'app/views/contact/contact.html'
 });
